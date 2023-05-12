@@ -98,9 +98,6 @@ p {
   color: var(--main-text-color);
   text-decoration: none;
   gap: 40px;
-}
-
-.list-menu-link {
   position: relative;
 }
 
