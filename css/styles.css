@@ -102,6 +102,7 @@ p {
 }
 .menu::after {
   content: "";
+
   position: absolute;
   left: 0;
   bottom: -1px;
